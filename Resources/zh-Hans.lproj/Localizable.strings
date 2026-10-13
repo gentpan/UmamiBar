@@ -1,0 +1,86 @@
+/* Popover */
+"activeCount" = "%lld 人在线";
+"updatedAgo" = "更新于 %@";
+"Visitors" = "访客";
+"Views" = "浏览量";
+"Visits" = "访问次数";
+"No websites" = "暂无网站";
+"Pageviews" = "页面浏览";
+"Top pages" = "热门页面";
+"Top referrers" = "来源网站";
+"(direct)" = "直接访问";
+"Connect to Umami" = "连接 Umami";
+"Add your Umami Cloud API key or self-hosted server details." = "添加 Umami Cloud API 密钥或自建服务器的详细信息。";
+"Open Settings…" = "打开设置…";
+"Open Umami dashboard" = "打开 Umami 面板";
+"Settings…" = "设置…";
+"Quit UmamiBar" = "退出 UmamiBar";
+
+/* Settings */
+"Settings" = "设置";
+"connectedWebsites" = "已连接 — %d 个网站";
+"Connection" = "连接";
+"General" = "通用";
+"API key" = "API 密钥";
+"Region" = "区域";
+"Server URL" = "服务器地址";
+"Username" = "用户名";
+"Password" = "密码";
+"Create a key at cloud.umami.is → Settings → API keys" = "在 cloud.umami.is → Settings → API keys 中创建密钥";
+"Test Connection" = "测试连接";
+"Testing…" = "正在测试…";
+"Refresh every" = "刷新间隔";
+"30 seconds" = "30 秒";
+"1 minute" = "1 分钟";
+"5 minutes" = "5 分钟";
+"Startup" = "启动";
+"Launch at login" = "登录时启动";
+"Save" = "保存";
+
+/* Shared with UmamiBarCore */
+"Today" = "今天";
+"Last 24 hours" = "最近 24 小时";
+"Last 7 days" = "最近 7 天";
+"Last 30 days" = "最近 30 天";
+"This month" = "本月";
+"Umami Cloud" = "Umami Cloud";
+"Self-hosted" = "自建";
+"Auto" = "自动";
+"US" = "美国";
+"EU" = "欧洲";
+"just now" = "刚刚";
+"%.0fs ago" = "%.0f 秒前";
+"%.0fm ago" = "%.0f 分钟前";
+"%.0fh ago" = "%.0f 小时前";
+"%.0fd ago" = "%.0f 天前";
+
+/* Connection validation and recovery */
+"Refresh failed" = "刷新失败";
+"Retry" = "重试";
+"No data" = "暂无数据";
+"Demo data" = "演示数据";
+"Use an API key" = "使用 API 密钥";
+"refreshFailures" = "%d / %d 个网站刷新失败，可重试；已有数据可能过时。";
+"Enter a valid HTTP or HTTPS server URL without a query or fragment." = "请输入有效的 HTTP 或 HTTPS 服务器地址，不要包含查询参数或片段。";
+"Unauthorized — check your credentials." = "认证失败，请检查密钥或用户名与密码。";
+"Complete the connection details in Settings." = "请在设置中填写完整的连接信息。";
+"This account requires two-factor authentication. Use a self-hosted API key instead." = "此账号需要双重认证，请改用自建服务器的 API 密钥。";
+"Too many requests. Wait a moment and retry." = "请求过于频繁，请稍后重试。";
+"Server returned HTTP %d. Please retry." = "服务器返回 HTTP %d，请重试。";
+"The server response is not compatible with this version of UmamiBar." = "服务器响应与当前版本的 UmamiBar 不兼容。";
+"Could not save credentials to Keychain. Check Keychain access and try again." = "无法将凭据保存到钥匙串，请检查钥匙串访问权限后重试。";
+"Allow UmamiBar in System Settings → General → Login Items." = "请在系统设置 → 通用 → 登录项中允许 UmamiBar。";
+"UmamiBar Preview" = "UmamiBar 预览";
+"Preview connection is temporary and is not saved to Keychain." = "预览连接仅临时使用，不会保存到钥匙串。";
+"Connect for preview" = "连接并预览";
+"Live preview" = "实测预览";
+
+/* Website visibility */
+"Displayed websites" = "显示站点";
+"Display" = "显示";
+"All websites" = "全部站点";
+"Selected websites" = "指定站点";
+"Connect to load the website list." = "连接服务器后即可加载站点列表。";
+"Select at least one website. A single website opens expanded." = "请至少选择一个站点。只选一个时，打开面板会默认展开详情。";
+
+"Traffic" = "流量趋势";

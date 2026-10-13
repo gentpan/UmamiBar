@@ -1,0 +1,86 @@
+/* Popover */
+"activeCount" = "%lld active";
+"updatedAgo" = "Updated %@";
+"Visitors" = "Visitors";
+"Views" = "Views";
+"Visits" = "Visits";
+"No websites" = "No websites";
+"Pageviews" = "Pageviews";
+"Top pages" = "Top pages";
+"Top referrers" = "Top referrers";
+"(direct)" = "(direct)";
+"Connect to Umami" = "Connect to Umami";
+"Add your Umami Cloud API key or self-hosted server details." = "Add your Umami Cloud API key or self-hosted server details.";
+"Open Settings…" = "Open Settings…";
+"Open Umami dashboard" = "Open Umami dashboard";
+"Settings…" = "Settings…";
+"Quit UmamiBar" = "Quit UmamiBar";
+
+/* Settings */
+"Settings" = "Settings";
+"connectedWebsites" = "Connected — %d website(s)";
+"Connection" = "Connection";
+"General" = "General";
+"API key" = "API key";
+"Region" = "Region";
+"Server URL" = "Server URL";
+"Username" = "Username";
+"Password" = "Password";
+"Create a key at cloud.umami.is → Settings → API keys" = "Create a key at cloud.umami.is → Settings → API keys";
+"Test Connection" = "Test Connection";
+"Testing…" = "Testing…";
+"Refresh every" = "Refresh every";
+"30 seconds" = "30 seconds";
+"1 minute" = "1 minute";
+"5 minutes" = "5 minutes";
+"Startup" = "Startup";
+"Launch at login" = "Launch at login";
+"Save" = "Save";
+
+/* Shared with UmamiBarCore */
+"Today" = "Today";
+"Last 24 hours" = "Last 24 hours";
+"Last 7 days" = "Last 7 days";
+"Last 30 days" = "Last 30 days";
+"This month" = "This month";
+"Umami Cloud" = "Umami Cloud";
+"Self-hosted" = "Self-hosted";
+"Auto" = "Auto";
+"US" = "US";
+"EU" = "EU";
+"just now" = "just now";
+"%.0fs ago" = "%.0fs ago";
+"%.0fm ago" = "%.0fm ago";
+"%.0fh ago" = "%.0fh ago";
+"%.0fd ago" = "%.0fd ago";
+
+/* Connection validation and recovery */
+"Refresh failed" = "Refresh failed";
+"Retry" = "Retry";
+"No data" = "No data";
+"Demo data" = "Demo data";
+"Use an API key" = "Use an API key";
+"refreshFailures" = "%d of %d websites could not refresh. Retry; existing data may be out of date.";
+"Enter a valid HTTP or HTTPS server URL without a query or fragment." = "Enter a valid HTTP or HTTPS server URL without a query or fragment.";
+"Unauthorized — check your credentials." = "Unauthorized — check your credentials.";
+"Complete the connection details in Settings." = "Complete the connection details in Settings.";
+"This account requires two-factor authentication. Use a self-hosted API key instead." = "This account requires two-factor authentication. Use a self-hosted API key instead.";
+"Too many requests. Wait a moment and retry." = "Too many requests. Wait a moment and retry.";
+"Server returned HTTP %d. Please retry." = "Server returned HTTP %d. Please retry.";
+"The server response is not compatible with this version of UmamiBar." = "The server response is not compatible with this version of UmamiBar.";
+"Could not save credentials to Keychain. Check Keychain access and try again." = "Could not save credentials to Keychain. Check Keychain access and try again.";
+"Allow UmamiBar in System Settings → General → Login Items." = "Allow UmamiBar in System Settings → General → Login Items.";
+"UmamiBar Preview" = "UmamiBar Preview";
+"Preview connection is temporary and is not saved to Keychain." = "Preview connection is temporary and is not saved to Keychain.";
+"Connect for preview" = "Connect for preview";
+"Live preview" = "Live preview";
+
+/* Website visibility */
+"Displayed websites" = "Displayed websites";
+"Display" = "Display";
+"All websites" = "All websites";
+"Selected websites" = "Selected websites";
+"Connect to load the website list." = "Connect to load the website list.";
+"Select at least one website. A single website opens expanded." = "Select at least one website. A single website opens expanded.";
+
+"Traffic" = "Traffic";
